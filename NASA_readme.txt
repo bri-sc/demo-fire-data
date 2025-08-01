@@ -1,3 +1,7 @@
+<<<<<<< HEAD:readme.txt
+=======
+
+>>>>>>> 29956cf (added anwers file and copyright to image):NASA_readme.txt
 ========================================================
 README: NASA FIRMS MODIS or VIIRS Fire/Hotspot Data Download
 ========================================================
