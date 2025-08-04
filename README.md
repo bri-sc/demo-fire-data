@@ -17,7 +17,7 @@ https://www.earthdata.nasa.gov/engage/open-data-services-software-policies/data-
  
 DISCLAIMER
 LANCE is operated by the ESDIS Project. The information presented through LANCE, GIBS, Worldview, and FIRMS are 
-provided â€œas isâ€ and users bear all responsibility and liability for their use of data, 
+provided and users bear all responsibility and liability for their use of data, 
 and for any loss of business or profits, or for any indirect, incidental or consequential damages arising out of any use of, 
 or inability to use, the data, even if NASA or ESDIS were previously advised of the possibility of such damages, 
 or for any other claim by you or any other person. Due to the spatial resolution and other characteristics of these data, 
