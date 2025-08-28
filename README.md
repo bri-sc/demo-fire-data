@@ -4,7 +4,7 @@ This is a Bristol Scientific Computing (BriSC) Python interactive demonstration.
 
 This demo investigates satellite data of global fires (Fire Radiative Power) available from NASA and looks for interesting features of the data.
 
-Click on this link to launch this through BinderHub:
+Click on this link to launch this through MyBinder:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bri-sc/data-demo/HEAD?urlpath=%2Fdoc%2Ftree%2Fdemo.ipynb)
 
