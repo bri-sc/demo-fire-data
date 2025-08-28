@@ -1,20 +1,24 @@
-This is a Bristol Scientific Computing (BriSC) Python interactive demonstration. This provides a taster for the type of coding and approach we take on the "X with Computing" and "Scientific Computing with Data Science" programmes at the University of Bristol. See the BriSC webpage and Postgraduate Programme for Scientific Computing with Data Science for more details.
+## Global fire data demo
+
+This is a Bristol Scientific Computing (BriSC) Python interactive demonstration. This provides a taster for the type of coding and approach we take on the "X with Computing" and "Scientific Computing with Data Science" programmes at the University of Bristol. See the [BriSC webpage](https://brisc.blogs.bristol.ac.uk/) and [Postgraduate Programme for Scientific Computing with Data Science](https://www.bristol.ac.uk/study/postgraduate/taught/msc-scientific-computing-with-data-science/) for more details.
+
+This demo investigates satellite data of global fires (Fire Radiative Power) available from NASA and looks for interesting features of the data.
 
 Click on this link to launch this through BinderHub:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bri-sc/data-demo/HEAD?urlpath=%2Fdoc%2Ftree%2Fdemo.ipynb)
 
-
-
+Note: this may take a while to load as MyBinder is building a coding environment for you to use in the cloud. This will not save any changes made to the file and will timeout after a few minutes of inactivity but can be relaunched.
 
 Answer's notebook:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bri-sc/data-demo/HEAD?urlpath=%2Fdoc%2Ftree%2Fdemo_ans.ipynb)
 
+The plotting code using the `folium` Python packaged used within the demo is available in the [map_maker.py](https://github.com/bri-sc/demo-fire-data/blob/main/map_maker.py) module file and the Jupyter notebook itself is [demo.ipynb](https://github.com/bri-sc/demo-fire-data/blob/main/demo.ipynb).
 
 This demonstration makes use of the FIRMS database provided by NASA. Information for FIRMS can be found at  
 https://www.earthdata.nasa.gov/engage/open-data-services-software-policies/data-use-policy
- 
+
 DISCLAIMER
 LANCE is operated by the ESDIS Project. The information presented through LANCE, GIBS, Worldview, and FIRMS are 
 provided and users bear all responsibility and liability for their use of data, 
